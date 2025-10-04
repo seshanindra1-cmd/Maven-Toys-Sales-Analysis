@@ -24,11 +24,11 @@ The goal is to create an interactive dashboard to reveal insights and inform str
 
 3. **Dashboard Design & Visuals**  
    - Built interactive visuals:
-     - Revenue & profit by region, store, product category  
-     - Monthly & seasonal trends  
-     - Top/low performing products  
-     - Profit margin & growth trends  
-   - Used slicers, filters & drill-throughs for deeper analysis  
+     - Bar cahrts showing high profitable stores and products with high sales
+     - Line chart showing seasonal trends 
+     - Pie chart showing the proportions of top 5 products sale with respect to others
+     - Cards showing the inventory money,total profit and sales,yoy sales
+   - Used slicers to drill through year and store location
 
 ---
 
